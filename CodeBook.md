@@ -4,7 +4,7 @@ See the `README.md` for more information about the assignment.
 
 ## Data
 
-The resultant dataset is located at the text file named `this_dataset_is_very_tidy.txt`. The separator is a space. The top row contains the variables names.
+The resulting dataset is located at the text file named `this_dataset_is_very_tidy.txt`. The separator is a space. The top row contains the variables names.
 
 ## Variables
 
